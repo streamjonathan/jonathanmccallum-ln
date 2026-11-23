@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+Site oyo ezali te mpo na bato oyo bazali na mibu 18 te. Elobaka makambo ya kondima na Yesu, mpe yango ezali makambo ya losambo, yango wana ekomamaki mpo na bato bakolo. Soki ozali na mibu 18 te, kokoma te makambo na yo ya moto moko awa, mpe kokomela Jonathan te.
+
+Na Espagne, mibeko elobi ete mwana oyo azali na mibu 14 te asengeli kozwa ndima ya moboti to motangi liboso ya kokabola makambo na ye ya moto moko na Internet. Mobeko ya site oyo ezali makasi koleka: soki ozali na mibu 18 te, site oyo ezali te mpo na yo.
 
 ## Changes
 
