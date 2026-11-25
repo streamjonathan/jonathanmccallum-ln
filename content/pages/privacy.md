@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Likambo ya moto
 
-Site oyo ezali ya Jonathan McCallum, oyo afandi na Getaria, na Espagne. Ezali site moke ya moto moko: makomi, mpe lisolo (chat) oyo ezongisaka na kotala makomi yango. Awa, esengeli te kosala compte, eloko moko te elandaka yo, matangá ezali te, mpe eloko moko te ezali ya koteka. Ezali kolanda mobeko ya Erópa oyo etali likambo ya moto (GDPR) mpo na bato nyonso oyo bazali koya awa, bisika nyonso na mokili.
+Site oyo ezali ya Jonathan McCallum, oyo afandi na Pays basque. Ezali site moke ya moto moko: makomi, mpe lisolo (chat) oyo ezongisaka na kotala makomi yango. Awa, esengeli te kosala compte, eloko moko te elandaka yo, matangá ezali te, mpe eloko moko te ezali ya koteka. Ezali kolanda mobeko ya Erópa oyo etali likambo ya moto (GDPR) mpo na bato nyonso oyo bazali koya awa, bisika nyonso na mokili.
 
 Soki ozali na motuna mpo na eloko moko na lokasa oyo, to mpo na makambo na yo ya moto, komela Jonathan: <a href="#" data-contact-email data-contact-email-text>Komela ngai</a>. Okoki mpe kotindela ye nsango na [Instagram](https://www.instagram.com/jonamccallum) to na [Threads](https://www.threads.com/@jonamccallum).
 
